@@ -1,4 +1,4 @@
-# Projeto Ciência de Dados VI
+# Projeto Palicação em nuvem (AWS)
 
 ## Execução de Script de Criação de instâncias:
 
