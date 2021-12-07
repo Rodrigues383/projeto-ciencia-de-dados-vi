@@ -1,4 +1,4 @@
-# Projeto Palicação em nuvem (AWS)
+# Projeto Aplicação em nuvem (AWS)
 
 ## Execução de Script de Criação de instâncias:
 
