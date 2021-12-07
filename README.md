@@ -1,4 +1,4 @@
-# Projeto Aplicação em nuvem (AWS)
+# Projeto Aplicação em nuvem permitindo elasticidade e gerenciamento de perfis(AWS)
 
 ## Execução de Script de Criação de instâncias:
 
